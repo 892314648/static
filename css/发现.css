@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    font-size: 0.2rem;
+}
+html,body{
+    font-size: 9.26vw;
+}
+#head{
+    height: 1rem;
+    font-size: 0.4rem;
+    /* background-color: red; */
+}
+#head p{
+    line-height: 0.8rem;
+    float: left;
+    margin: 0.2rem 0.4rem;
+}
+#head .p1{
+
+    border-bottom: 3px solid blue;
+}
