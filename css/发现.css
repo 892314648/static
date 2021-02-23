@@ -22,6 +22,12 @@ html,body{
 
     border-bottom: 3px solid blue;
 }
+#news{
+    flex: 1;
+    overflow: auto;
+    height: auto;
+}
+
 #new{
     margin-top:0.5rem; 
     height: auto;;
@@ -92,10 +98,10 @@ html,body{
     margin: 0rem 0.3rem;
 }
 #new  .div4 .span1{
-/* line-height: 0.8rem; */
-color: #888;
-display: inline-block;
-width: 6.8rem;
+    /* line-height: 0.8rem; */
+    color: #888;
+    display: inline-block;
+    width: 6.8rem;
 }
 #new .div4-1{
     display: inline-block;
@@ -118,6 +124,7 @@ width: 6.8rem;
     height: 1.4rem;
     justify-content: space-around;
     margin-bottom: 0.5rem;
+    
 }
 #items .li1{
     margin-top: 0.5rem;
